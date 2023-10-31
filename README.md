@@ -4,7 +4,7 @@ This project is an example of a marketing website landing page, which was refact
 ## Installation
 N/A
 ## Usage
-Click on the topics in the navigation bar to find a simple explanation, why are these important for online marketing. The topics include Search Engine Optimization, Online Reputation and Social Media Marketing.
+Click on the topics in the navigation bar to find a simple explanation, why are these topics important for online marketing. The topics include Search Engine Optimization, Online Reputation and Social Media Marketing.
 ## Credits
 N/A
 ## License
